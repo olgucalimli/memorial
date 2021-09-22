@@ -13,6 +13,11 @@ function staticLoadPlaces() {
            location: {
                lat: 51.6884670, 
                lng: -1.2717161,
+           },
+           name: 'Pokemon',
+           location: {
+               lat: 51.6883868, 
+               lng: -1.2719203,
            }
        },
    ];
